@@ -2,10 +2,10 @@
 
 👦𝗔𝗯𝗼𝘂𝘁 𝗺𝗲: I'm driven by data and motivated by quality
 
-The quote by Tukey that you've read above greatly reflects my approach to data science. If we spend 80% of our time processing data, then our focus should be on understanding the data and asking the right questions. My 2 years of experience have taught me how to appreciate data and take a data-centric approach. I want to create solutions to common problems and make artificial intelligence accessible to everyone.
+The quote by Tukey that you've read above greatly reflects my approach to data science. If we spend 80% of our time processing data, then our focus should be on understanding the data and asking the right questions. My 2.5 years of experience have taught me how to appreciate data and take a data-centric approach. I want to create solutions to common problems and make artificial intelligence accessible to everyone.
 
 📚 <b>My core competencies include</b>:
 ✔ Data Science ✔ Machine Learning ✔ Deep Learning ✔ Data Analysis using Python and Spark ✔ Statistical Analysis using R ✔ Database programming using MySQL, PostgreSQL, Oracle ✔ Data Visualization using Tableau, Power BI, Excel ✔ Cloud Computing using AWS, GCP, Azure
 
-💡Fun Facts:
-▪️ I am preparing for AWS Solutions Architect certification ▪️ In my free time, I would watch Scifi shows on Netflix or play 🎮PS4 or play 🎾Tennis ▪️ Did you know GPT-3 can build websites?!!
+💡<b>Fun Facts</b>:
+▪️ I am preparing for AWS Solutions Architect certification ▪️ In my free time, I would watch Scifi shows on Netflix or play Soccer.
