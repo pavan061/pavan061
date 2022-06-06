@@ -5,7 +5,7 @@
 <br></br>
 📚 <b>My core competencies include</b>:
 ✔ Data Science ✔ Machine Learning ✔ Deep Learning ✔ Data Analysis using Python and Spark ✔ Statistical Analysis using R ✔ Database programming using MySQL, PostgreSQL, Oracle ✔ Data Visualization using Tableau, Power BI, Excel ✔ Cloud Computing using AWS, GCP, Azure
-
-💡<b>Fun Facts</b>:
+<br></br>
+💡Fun Facts:
 ▪️ I am preparing for AWS Solutions Architect certification ▪️ In my free time, I would watch Scifi shows on Netflix or play Soccer.
 </h4>
